@@ -39,8 +39,10 @@
 </div> <!-- end of header -->
 
 
-
+<div class ="content"></div>
 <main>
+
+
 <!-- PAGE EXPLANATION -->
 <div class = "block2"> 
     <h1> Problem Background</h1>
@@ -64,6 +66,8 @@
     <p class="generalText">  ArcGIS Pro, Esri Experience Builder, ArcGIS Online Dashboards </p>
 </div>
 
+
+
 <!-- BLOCK 1 -->
 <div class = "block2">
 <p class = homeSubHead> Expanding on this idea</p>
@@ -75,7 +79,7 @@
     <p class = homeSubHead>  Take me to the final product I dont want to read all this! </p>
 <a class="link" href = "FinalProduct.html"> If thats want you want, Click here  </a>
 </div>
-
+</div>
 </main>
 
 <footer>
@@ -89,5 +93,19 @@
 <script src="js/jquery.min.js"></script> <!-- jQuery for Bootstrap's JavaScript plugins -->
 <script src="js/scripts.js"></script> <!-- Custom scripts -->
 
+<script>
+    window.onscroll = function() {myFunction()};
+    
+    var navbar = document.getElementById("navbar");
+    var sticky = navbar.offsetTop;
+    
+    function myFunction() {
+      if (window.pageYOffset >= sticky) {
+        navbar.classList.add("sticky")
+      } else {
+        navbar.classList.remove("sticky");
+      }
+    }
+    </script>
 </body>
 </html>
