@@ -41,21 +41,6 @@ li a{
 	font-weight: 200;
 }
 
-.content{
-	padding: 16px;
-  }
-  
-  .sticky {
-	position: fixed;
-	top: 0;
-	width: 100%;
-  }
-  
-  .sticky + .content{
-	padding-top: 60px;
-  }
-
-
 li a:focus{
 	border-color:#c4151e;
 	background-color:#fafafa;
