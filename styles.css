@@ -13,7 +13,7 @@ html {
 	overflow: hidden;
 	padding-top: 6rem;
 	padding-bottom: 12rem;
-	background-image: url("../GroupProjectGeom99/images/back.JPG");
+	background-image: url("../TeamWeb8/images/back.JPG");
 }
 
 .header2 {
@@ -21,7 +21,7 @@ html {
 	overflow: hidden;
 	padding-top: 6rem;
 	padding-bottom: 6rem;
-	background-image: url("https://github.com/MichelleMarano1/TeamWeb8/blob/main/images/mapog.JPG");
+	background-image: url("../TeamWeb8/images/mapog.JPG");
 }
 
 .header .text-container {
@@ -45,7 +45,7 @@ html {
 .header .wave {
 	-webkit-animation: wave calc(var(--speed, 0) * 1s) infinite linear;
 	animation: wave calc(var(--speed, 0) * 3s) infinite linear;
-	background-image: url("../GroupProjectGeom99/images/wave-infinite.svg");
+	background-image: url("../TeamWeb8/images/wave-infinite.svg");
 	background-size: 93% 126%;
 	bottom: 0%;
 	left: 0;
