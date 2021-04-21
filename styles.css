@@ -106,7 +106,7 @@ li a:hover{
 .header .wave {
 	-webkit-animation: wave calc(var(--speed, 0) * 1s) infinite linear;
 	animation: wave calc(var(--speed, 0) * 3s) infinite linear;
-	background-image: url("../TeamWeb8/images/wave-infinite.svg");
+	background-image: url("images/wave-infinite.svg");
 	background-size: 50% 100%;
 	bottom: -5%;
 	left: 0;
