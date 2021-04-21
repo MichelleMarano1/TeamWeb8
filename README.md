@@ -4,7 +4,8 @@
 When searching for Indigenous data, you'll run into one of two issues: first, the data isn't available, and second, the data isn't accurate, even though if it's on Statistics Canada.  There have been some open source applications created by Indigenous peoples to help with this data gap, however these maps don't provide the user with much detail. Indigenous cultures have been erased from maps since the colonisation of Turtle Island, and they must be reintroduced into the mapping space to begin the healing process. There is no access to a web-based program that allows the Indigenous peoples of this country to feel like a sovereign group of people. A web application that maps Indigenous data will aid in learning the true history of these lands.
 
 ## Problem Statement
-Ideal
+
+### Ideal
 
 A web app that maps indigenous languages and popluations across Ontario and provides general information about a subject that is under represented
 
