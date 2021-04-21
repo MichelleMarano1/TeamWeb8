@@ -29,7 +29,7 @@ li {
 }
 
 li a{
-	display: block;
+	display: inline-block;
 	color:white;
 	text-decoration: none;
 	width: 25vw;
@@ -70,12 +70,6 @@ li a:hover{
   }
 
 
-  .header {
-	position: relative;
-	padding-top: 6rem;
-	padding-bottom: 12rem;
-	background-image: url("../TeamWeb8/images/back.JPG");
-}
 
 .header2 {
 	position: relative;
@@ -84,6 +78,13 @@ li a:hover{
 	background-image: url("../TeamWeb8/images/mapog.JPG");
 }
 
+.header {
+	position: relative;
+	overflow: hidden;
+	padding-top: 6rem;
+	padding-bottom: 12rem;
+	background-image: url("../TeamWeb8/images/back.JPG");
+}
 .header .text-container {
 	margin-bottom: 4rem;
 	text-align: center;
@@ -93,29 +94,26 @@ li a:hover{
 .header .h1-large {
 	margin-bottom: 50px;
 	color: #ffffff;
-	background-color: black;
-	padding: 20px;
-
+	background-color: #181717;
 }
 
 .header .p-large {
 	margin-bottom: 2rem;
 	color: #ffffff;
+
 }
-
-
 .header .wave {
 	-webkit-animation: wave calc(var(--speed, 0) * 1s) infinite linear;
 	animation: wave calc(var(--speed, 0) * 3s) infinite linear;
 	background-image: url("../TeamWeb8/images/wave-infinite.svg");
-	background-size: 93% 126%;
-	bottom: 0%;
+	background-size: 50% 100%;
+	bottom: -5%;
 	left: 0;
 	opacity: var(--opacity);
 	position: absolute;
 	right: 0;
 	width: calc(var(--width, 0) * 1vw);
-	background-color: #c0262e;
+	background-color: #c4151e;
 }
 
 .header .wave:nth-of-type(1) {
@@ -130,6 +128,7 @@ li a:hover{
 	height: 115px
 }
 
+/* Wave Animation */
 @-webkit-keyframes wave {
 	to {
 		-webkit-transform: translate(-50%, 0);
@@ -256,6 +255,7 @@ li a:hover{
 
 
 /* ################# Images ################# */
+
 iframe { 
 	margin-left: auto;
 	margin-right: auto;
