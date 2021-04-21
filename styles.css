@@ -255,7 +255,28 @@ li a:hover{
 }
 
 
-/*   ################# BLOCK MEDIA #################  */
+
+/* ################# Images ################# */
+
+.headshot{
+	border-radius: 100%;
+	margin-right:30px;
+}
+
+.learningimages {
+	width: 50vw;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.learningimages2 {
+	width: 20vw;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
 @media only screen and (max-width: 1000px) {
 
 	.blockTitle{
@@ -381,61 +402,6 @@ li a:hover{
 
 
 
-/* ################# Images ################# */
-
-.headshot{
-	border-radius: 100%;
-	margin-right:30px;
-}
-
-.learningimages {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: auto;
-	height: 380px;
-
-
-}
-
-
-@media only screen and (max-width: 900px) {
-
-	.image{
-		border-radius: 10px;
-		float: right;
-		height:100%;
-		width: 100%;
-		margin:auto;
-		padding-bottom: 3vw;
-	}
-  }
-
-  .image2{
-	border-radius: 10px;
-	float: right;
-	margin:auto;
-	margin-left:1vw;
-}	
-
-@media only screen and (max-width: 900px) {
-
-	.image2{
-		border-radius: 10px;
-		height:100%;
-		width: 100%;
-		float:right;
-		margin:auto;
-		padding-bottom: 3vw;
-	}
-  }
-
-@media only screen and (max-width: 500px) {
-
-	.image2{
-		display: none;
-	}
-  }
 
 /* ################# Footer ################# */
 
