@@ -74,5 +74,5 @@ https://fleming.maps.arcgis.com/home/item.html?id=368ea709f2864f61bfb4b360d2871a
 https://webservices.maps.canada.ca/arcgis/rest/services/StatCan/cd_aboriginal_identity_2016_en/MapServer/0
 
 ## Langauge Data
-### Exportable 
+### Able to export data 
 https://fleming.maps.arcgis.com/home/item.html?id=412670022a434d3d93f5a5690029f6fe
