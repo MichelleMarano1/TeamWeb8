@@ -1,9 +1,9 @@
 # Web Application for Web Development : TeamWeb8
 
-🗺️  Final Live Solution using Exerience Builder 
+🗺️  Final Live Solution using Exerience Builder. 
 https://experience.arcgis.com/experience/6f418dd480994248bfeab45047d96ace
 
-💡 Website Showing how to made our solution 
+💡 Website Showing how to made our solution. 
 https://michellemarano1.github.io/TeamWeb8/index.html
 
 
@@ -14,7 +14,7 @@ When searching for Indigenous data, you'll run into one of two issues: first, th
 
 ### Ideal
 
-A web app that maps indigenous languages and popluations across Ontario and provides general information about a subject that is under represented.
+A web app that maps indigenous languages and popluations across Ontario and provides general information about a subject that is under represented
 
 ### Reality
 
