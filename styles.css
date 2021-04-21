@@ -76,7 +76,7 @@ li a:hover{
 	position: relative;
 	padding-top: 6rem;
 	padding-bottom: 6rem;
-	background-image: url("../TeamWeb8/images/mapog.JPG");
+	background-image: url("images/mapog.JPG");
 }
 
 .header {
@@ -84,7 +84,7 @@ li a:hover{
 	overflow: hidden;
 	padding-top: 6rem;
 	padding-bottom: 12rem;
-	background-image: url("../TeamWeb8/images/back.JPG");
+	background-image: url("images/back.JPG");
 }
 .header .text-container {
 	margin-bottom: 4rem;
